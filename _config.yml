@@ -109,8 +109,8 @@ generator_amp:
     menu:
       首页: /
       归档: /archives/
-      实验室: /lab/
+      实用API: /lab/
       投喂: /donate/
-      后宫: /friends/
+      友链: /friends/
       留言板: /message/
-      关于: /about/
+      关于我: /about/

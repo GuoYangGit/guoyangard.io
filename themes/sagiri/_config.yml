@@ -113,8 +113,7 @@ links_title: Links
 links_layout: block
 #links_layout: inline
 links:
-  A_of_All: https://blog.aofall.com/ || https://linklink.b0.upaiyun.com/A_of_All.jpeg || 待我归来.
-  Aaron: https://aoaoao.me/ || https://linklink.b0.upaiyun.com/Aaron.png || 树洞
+  红橙Darren: https://www.jianshu.com/u/35083fcb7747/ || https://upload.jianshu.io/users/upload_avatars/4314397/39de1eb1-5b12-461e-9fa1-ec88ce1d90a6.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240 || 空有一身颜值毫无卵用
   
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
@@ -558,7 +557,7 @@ algolia_search:
 # Local search
 # Dependencies: https://github.com/flashlab/hexo-generator-search
 local_search:
-  enable: true
+  enable: false
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
@@ -793,7 +792,7 @@ footer:
     version: true
   # -------------------------------------------------------------
   # Any custom text can be defined here.
-  custom_text: 托管于<a href="https://github.com/" target="_blank" rel="nofollow"> GitHub</a>. <a href="https://www.upyun.com/" target="_blank" rel="nofollow">又拍云</a> 提供 CDN 服务. <a href="http://www.google.com/analytics/" target="_blank" rel="nofollow">Google Analytics </a>提供网站统计服务. <a href="https://www.cloudxns.net/" target="_blank" rel="nofollow">CloudXNS </a>提供 DNS 解析服务.
+  custom_text: 托管于<a href="https://github.com/" target="_blank" rel="nofollow"> GitHub</a>. <a href="http://www.google.com/analytics/" target="_blank" rel="nofollow">Google Analytics </a>提供网站统计服务. <a href="https://www.cloudxns.net/" target="_blank" rel="nofollow">CloudXNS </a>提供 DNS 解析服务.
   sitemap: /sitemap.xml
   beian: 鲁ICP备16000184号
 
