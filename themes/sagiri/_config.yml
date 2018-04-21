@@ -30,7 +30,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "ArrayBug,blog"
+keywords: "ArrayBy"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -100,7 +100,7 @@ scheme: Pisces
 social:
   GitHub: https://github.com/GuoYangGit || github
   QQ: /images/qq-g.jpg || qq || qq
-  简书: https://www.jianshu.com/u/68ed2c7c5828 || 简书
+  wechat: https://www.jianshu.com/u/68ed2c7c5828 || wechat
 
 social_icons:
   enable: true
@@ -214,7 +214,7 @@ bitcoin:
 # Declare license on posts
 post_copyright:
   enable: true
-  license: Copy By ArrayBug
+  license: Copy By ArrayBy
   license_url: http://www.guoyangard.cn
 
 
@@ -328,8 +328,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
-  shortname: ArrayBug
+  enable: false
+  shortname: ArrayBy
   count: false
 
 # Hypercomments
@@ -359,7 +359,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC8zMDIwMy82NzU4
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
@@ -495,8 +495,8 @@ rating:
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
   enable: true
-  app_id: zOaFuuRC5FSXMklSCYIYGtpn-gzGzoHsz
-  app_key: zS3MBi3DWq6K3IRy7s12HVnL
+  app_id: Ti5mwFDXXbpWqeWdaydLNfOS-gzGzoHsz
+  app_key: rXpryRyVs5jlk2LAGGI1bfEd
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
@@ -768,7 +768,7 @@ header_bg: /images/header-sagiri.jpg
 
 card:
   avatar: /images/card.jpg
-  name: <span style="opacity:.2;">Array</span>Buy
+  name: <span style="opacity:.2;">Array</span>By
   description: 专注技术宅男
 
 footer:
