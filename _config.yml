@@ -3,15 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hi, DIYgod
+title: ArrayBug`Blogs
 subtitle:
-description: 人气网红 | 前端萌新 | 有猫 | 开源
-author: DIYgod
+description: Android | 互联网 | 技术宅男 | 开源
+author: ArrayBug
 language: zh-Hans
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://diygod.me
+url: http://guoyangard.cn
 root: /
 permalink: :title/
 permalink_defaults:
@@ -78,7 +78,7 @@ theme: sagiri
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:DIYgod/diygod.me.git
+  repo: git@github.com:GuoYangGit/GuoYangGit.github.io.git
   branch: master
 
 search:

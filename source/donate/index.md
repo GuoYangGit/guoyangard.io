@@ -18,16 +18,8 @@ date: 2014-02-15 23:11:10
 
 #### 微信
 
-![](/images/2016-08-25_wxd.png)
+![](/images/wechatpay.png)
 
 #### 支付宝
 
-![](/images/2016-08-25_zfbd.png)
-
-#### PayPal
-
-[https://www.paypal.me/DIYgod](https://www.paypal.me/DIYgod)
-
-#### 比特币
-
-13CwQLHzPYm2tewNMSJBeArbbRM5NSmCD1
+![](/images/alipay.png)

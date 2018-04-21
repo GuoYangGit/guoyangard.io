@@ -30,7 +30,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "DIYgod,blog"
+keywords: "ArrayBug,blog"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -98,11 +98,9 @@ scheme: Pisces
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/DIYgod || github
-  Twitter: https://twitter.com/DIYgod || twitter
-  QQ 群: /images/qq-g.jpg || qq || qq
-  Telegram Channel: https://t.me/awesomeDIYgod || telegram
-  更多: https://www.anotherhome.net/3163 || more
+  GitHub: https://github.com/GuoYangGit || github
+  QQ: /images/qq-g.jpg || qq || qq
+  简书: https://www.jianshu.com/u/68ed2c7c5828 || 简书
 
 social_icons:
   enable: true
@@ -117,52 +115,7 @@ links_layout: block
 links:
   A_of_All: https://blog.aofall.com/ || https://linklink.b0.upaiyun.com/A_of_All.jpeg || 待我归来.
   Aaron: https://aoaoao.me/ || https://linklink.b0.upaiyun.com/Aaron.png || 树洞
-  Balthild: https://qaq.cat/ || https://linklink.b0.upaiyun.com/Balthild.jpg || 轻歌
-  Cee: http://blog.cee.moe/ || https://linklink.b0.upaiyun.com/Cee.jpeg || 九五小鮮肉，大四出國狗
-  FGHRSH: https://www.fghrsh.net/ || https://linklink.b0.upaiyun.com/FGHRSH.jpg || FGHRSH 的博客
-  Fly: https://www.fly3949.com/ || https://linklink.b0.upaiyun.com/Fly.jpg || 喜欢各种瞎折腾
-  freejishu: http://www.freejishu.com/ || https://linklink.b0.upaiyun.com/freejishu.jpg || A New World
-  Jimmy66: http://jimmy66.com/ || https://linklink.b0.upaiyun.com/Jimmy66.jpeg || 一个不断成长，学习着的BMEer
-  journey.ad: https://imjad.cn/ || https://linklink.b0.upaiyun.com/imjad.jpeg || 浊以静之徐清
-  kn007: https://kn007.net/ || https://linklink.b0.upaiyun.com/kn007.jpeg || 这家伙很懒，什么也没有留下
-  Zankyo: https://zankyo.cc/ || https://linklink.b0.upaiyun.com/Zankyo.jpg || I Stay Alive.
-  liwanglin12: https://blog.lwl12.com/ || https://linklink.b0.upaiyun.com/lwl.jpeg || 我老婆
-  METO: https://i-meto.com/ || https://linklink.b0.upaiyun.com/meto.jpg || 萨摩公园
-  Micooz: https://apporz.com/ || https://linklink.b0.upaiyun.com/Micooz.png || FullStack Engineer
-  Mokeyjay: http://www.mokeyjay.com/ || https://linklink.b0.upaiyun.com/Mokeyjay.jpg || Just a PHP Noob
-  MonkeyFigaro: http://monkeyfigaro.cn/ || https://linklink.b0.upaiyun.com/MonkeyFigaro.jpg || 脸盲｜路痴｜智障｜拖延症｜LGBT｜非单身
-  myhloli: http://myhloli.com/ || https://linklink.b0.upaiyun.com/myhloli.jpeg || 爱生活，爱萝莉
-  Showfom: https://sb.sb/ || https://linklink.b0.upaiyun.com/Showfom.jpg || 烧饼博客是专注于服务器教程，专业域名投资和见解的博客
-  TyzuaL: https://tyzual.com/ || https://linklink.b0.upaiyun.com/TyzuaL.jpg || 一只潜伏在企鹅群中的小喵
-  u3u: https://quq.cat/ || https://linklink.b0.upaiyun.com/u3u.jpeg || 陪伴是最长情的告白
-  Xcat Liu: http://blog.xcatliu.com/ || https://linklink.b0.upaiyun.com/xcatliu.png || A cat who writes code
-  zchen9: http://www.chen9.info/ || https://linklink.b0.upaiyun.com/zchen9.jpeg || 离用户最近的艺术家
-  ZGQ: http://blog.izgq.net/ || https://linklink.b0.upaiyun.com/ZGQ.jpeg || 高三党一枚
-  zkl2333: http://www.zkl2333.com/ || https://linklink.b0.upaiyun.com/zkl2333.jpeg || zkl2333的博客
-  一曲长歌辞烟雨: https://ls12.me/ || https://linklink.b0.upaiyun.com/%E6%B5%81%E8%A7%9E%E6%9B%B2%E6%B0%B4.png || 相逢千里负烟霞。空山人去远，回首落梅花
-  佳佳: http://luojia.me/ || https://linklink.b0.upaiyun.com/%E4%BD%B3%E4%BD%B3.jpg || 跨次元日常卖萌
-  千千: https://www.dreamwings.cn/ || https://linklink.b0.upaiyun.com/%E5%8D%83%E5%8D%83.jpg || 烟花、绽放之后只剩黑暗
-  变态鹅: https://conoha.vip/ || https://linklink.b0.upaiyun.com/skipper.jpg || 本鹅最喜欢萌妹纸了！
-  吟梦: https://kirainmoe.com/ || https://linklink.b0.upaiyun.com/%E5%90%9F%E6%A2%A6.jpeg || 这家伙很懒，什么也没有留下
-  地瓜: https://digua.me/ || https://linklink.b0.upaiyun.com/%E5%9C%B0%E7%93%9C.png || 总有一天，咱也要和菊苣一起玩耍！
-  夜绫千裕: https://yecl.net/ || https://linklink.b0.upaiyun.com/%E5%A4%9C%E7%BB%AB%E5%8D%83%E8%A3%95.jpeg || 醒后无所见，耳旁昨日声
-  大袋鼠: http://muguang.me/ || https://linklink.b0.upaiyun.com/%E5%A4%A7%E8%A2%8B%E9%BC%A0.jpg || 这家伙很懒，什么也没有留下
-  小霖: https://xiaolin.in/ || https://linklink.b0.upaiyun.com/%E5%B0%8F%E9%9C%96.png || 岁月静好,现世安稳
-  悠然RE: https://blog.mitsuha.space/ || https://linklink.b0.upaiyun.com/%E6%82%A0%E7%84%B6RE.jpg || 萌萌噠傲嬌妹紙
-  晚风映浮云: https://mxd.moe/ || https://linklink.b0.upaiyun.com/%E6%99%9A%E9%A3%8E%E6%98%A0%E6%B5%AE%E4%BA%91.jpeg || 死宅|渣渣前端|好奇心和猫一样|有强迫症|钟爱火狐|chrome黑|情伤几乎为0|⑨控|萝莉控|已脱团
-  笈川可可: https://blog.0xbbc.com/ || https://linklink.b0.upaiyun.com/2016-08-04_0xBBC.png || a.k.a 神楽坂碧玺，某可爱的蓝孩纸程序猿
-  羡辙: http://zhangwenli.com/ || https://linklink.b0.upaiyun.com/%E7%BE%A1%E8%BE%99.jpeg || 羡辙，字子免，号灵石笠翁
-  音風: https://www.otokaze.cn/ || https://linklink.b0.upaiyun.com/%E9%9F%B3%E9%A2%A8.jpg || 一介布衣的自我修养
-  小白-白: https://www.fczbl.vip || https://linklink.b0.upaiyun.com/FCZBL.jpg || 咦？我是谁？我为什么会在这？
-  Sonic853: http://blog.853lab.com || https://linklink.b0.upaiyun.com/Sonic853.png || 虚拟人物 天王星号侦察船
-  保罗: http://hi-paul.space/ || https://linklink.b0.upaiyun.com/%E4%BF%9D%E7%BD%97.jpg || 保罗的小宇宙
-  Giuem: http://www.giuem.com/ || https://linklink.b0.upaiyun.com/giuem.jpg || BiuBiuBiu~
-  Mashiro: https://2heng.xin || https://linklink.b0.upaiyun.com/Mashiro.jpeg || 樱花庄的白猫
-  Kay: https://wwww.lvmoo.com/ || https://linklink.b0.upaiyun.com/Kay.jpeg || 我的腿让我停下，可是心却不允许我那么做。
-  Troy: https://itroy.cc/ || https://linklink.b0.upaiyun.com/Troy.jpeg || Troy的星球
-  Rex Zeng: https://www.rexskz.info/ || https://linklink.b0.upaiyun.com/RexSkz.jpeg || 音游狗、安全狗、攻城狮、业余设计师、段子手、苦学日语的少年。
-  Sora: https://kotori.net/ || https://linklink.b0.upaiyun.com/Sora.jpeg || 曾经沉迷LL无法自拔，目前依旧是一个LL真爱粉，最喜欢的是小鸟酱！
-
+  
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
@@ -261,9 +214,9 @@ bitcoin:
 
 # Declare license on posts
 post_copyright:
-  enable: false
-  license: CC BY-NC-SA 3.0
-  license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
+  enable: true
+  license: Copy By ArrayBug
+  license_url: http://www.guoyangard.cn
 
 
 # ---------------------------------------------------------------
@@ -377,7 +330,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: diygod-me
+  shortname: ArrayBug
   count: false
 
 # Hypercomments
@@ -605,7 +558,7 @@ algolia_search:
 # Local search
 # Dependencies: https://github.com/flashlab/hexo-generator-search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
@@ -816,8 +769,8 @@ header_bg: /images/header-sagiri.jpg
 
 card:
   avatar: /images/card.jpg
-  name: <span style="opacity:.2;">网红</span>DIYgod
-  description: 你能抓到我么？
+  name: <span style="opacity:.2;">Array</span>Buy
+  description: 专注技术宅男
 
 footer:
   # Specify the date when the site was setup.
@@ -846,7 +799,7 @@ footer:
 
 online_api: wss://api.prprpr.me/online/
 
-description: <span style="color:#3369e8;">Write</span> <span style="color:#d50f25;">the</span> <span style="color:#eeb211;">Code,</span> <span style="color:#3369e8;">Change</span> <span style="color:#009925;">the</span> <span style="color:#d50f25;">World.</span>
+description: <span style="color:#3369e8;">Anroid</span><span style="color:#d50f25;">程</span><span style="color:#eeb211;">序</span><span style="color:#3369e8;">员</span><span style="color:#009925;">一</span><span style="color:#d50f25;">枚～</span>
 
 # Theme version
-version: 0.0.16
+version: 0.0.14

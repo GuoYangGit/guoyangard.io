@@ -7,12 +7,12 @@ type: "about"
 
 ![](/images/about.jpg)
 
-人气网红 | 前端小萌新 | bilibili | 有猫 | 开源
+Android | 技术宅男 | 互联网 | 开源
 
-抓住我： [GitHub](https://github.com/DIYgod) | [Twitter](https://twitter.com/DIYgod) | [QQ 群](/images/qq-g.jpg) | [Telegram chanel](https://t.me/awesomeDIYgod) | [更多](https://www.anotherhome.net/3163)
+抓住我： [GitHub](https://github.com/GuoYangGit) | [简书](https://www.jianshu.com/u/68ed2c7c5828) | 
 
 &nbsp;
 
-博客建于2014年2月9日
+博客建于2016年2月9日
 
-2017年11月20日从 WordPress 换到 Hexo，新的开始！
+2017年11月20日从 开始写作，新的开始！
