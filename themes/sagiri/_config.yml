@@ -24,8 +24,8 @@ favicon:
   hidden: /images/failure.ico
   show_text: (/≧▽≦/)咦！又好了！
   hide_text: (●—●)喔哟，崩溃啦！
-  apple_touch_icon: /images/DIYgod-180x180.jpg
-  safari_pinned_tab: /images/DIYgod.jpg
+  apple_touch_icon: /images/ArrayBug.jpg
+  safari_pinned_tab: /images/ArrayBug.jpg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
 
@@ -66,11 +66,11 @@ index_with_subtitle: false
 menu:
   首页: / || home
   归档: /archives/ || archive
-  实验室: /lab/ || flask
+  实用API: /lab/ || flask
   投喂: /donate/ || cutlery
-  后宫: /friends/ || mars
+  友情链接: /friends/ || mars
   留言板: /message/ || pencil
-  关于: /about/ || rocket
+  关于我: /about/ || rocket
 
 # Enable/Disable menu icons.
 menu_icons:
@@ -118,7 +118,7 @@ links:
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-avatar: /images/DIYgod.jpg
+avatar: /images/ArrayBug.jpg
 
 # Table Of Contents in the Sidebar
 toc:
@@ -495,8 +495,8 @@ rating:
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
   enable: true
-  app_id: Ti5mwFDXXbpWqeWdaydLNfOS-gzGzoHsz
-  app_key: rXpryRyVs5jlk2LAGGI1bfEd
+  app_id: zOaFuuRC5FSXMklSCYIYGtpn-gzGzoHsz
+  app_key: zS3MBi3DWq6K3IRy7s12HVnL
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
